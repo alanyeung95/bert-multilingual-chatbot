@@ -46,11 +46,11 @@ Response: Désolé désolé, je sais que je ne suis pas assez intelligent. Peut-
 ```
 
 ## Hardware Requirements
-### Training (based on Google Colab)
-1. GPU ram (4.75 GB)
+### Training
+1. GPU ram (4.75 GB, based on Google Colab)
 
 ### Running/Prediction
-1. GPU ram (2.61 GB in average, 3.8 GB max)
+1. GPU ram (2.61 GB in average, 3.8 GB max, based on Google Colab)
 
 ## Troubleshooting
 ```
