@@ -49,6 +49,9 @@ Response: Désolé désolé, je sais que je ne suis pas assez intelligent. Peut-
 ### Training (based on Google Colab)
 1. GPU ram (4.75 GB)
 
+### Running/Prediction
+1. GPU ram (2.61 GB in average, 3.8 GB max)
+
 ## Troubleshooting
 ```
 2022-08-28 16:16:08.696094: W external/org_tensorflow/tensorflow/core/framework/cpu_allocator_impl.cc:80] Allocation of 367248384 exceeds 10% of free system memory.
